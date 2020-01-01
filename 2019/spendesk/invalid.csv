@@ -1,0 +1,11 @@
+nicolas,girardin,m,ngirardin@gmail.com,+33673325657
+,no firstname,f,three@gmail.com,0673325657
+no last name,,f,three@gmail.com,+44444444444
+one,two,,no@gender.com,+44444444444
+one,two,f,no@phone.com,
+not,enough,fields
+one,two,m,noanemail,+4444444444
+one,two,f,too@gmail.com,much,fields
+one,two,f,three@gmail.com,0123456789notphone
+{
+  "name": "spendesk",
